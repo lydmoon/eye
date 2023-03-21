@@ -5,4 +5,4 @@ Come play with eye with your mouse. Creating the movement with JavaScript, custo
 ### Instructions
 Move the cursur around the screen.
 ### Future implements
-Adding more styles to the page. For example, adding eyelashes, adding pupil, etc. Also, including blinking. 
+Adding more styles to the page. For example, adding eyelashes, adding pupil, etc. Also, adding blinking function. 
